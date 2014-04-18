@@ -3,6 +3,7 @@
     "description": "Markdown documentation generator",
     "keywords": ["documentation", "markdown", "php"],
     "homepage": "http://github.com/RebelProject/RDox",
+    "license": "MIT",
     "authors": [
         {
             "name":  "Dmitriy Burim",
