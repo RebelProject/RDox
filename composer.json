@@ -1,6 +1,14 @@
 {
     "name": "rebelproject/rdox",
     "description": "Markdown documentation generator",
+    "keywords": ["documentation", "markdown", "php"],
+    "homepage": "http://github.com/RebelProject/RDox",
+    "authors": [
+        {
+            "name":  "Dmitriy Burim",
+            "email": "d.bourim@gmail.com"
+        }
+    ],
     "require": {
         "php": ">=5.4.0",
         "michelf/php-markdown" : "1.*"
