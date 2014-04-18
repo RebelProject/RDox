@@ -1,0 +1,12 @@
+{
+	"title":       "xxx",
+	"title":       "RDox",
+	"base_url":    "/",
+	"public_path": "public",
+	"docs_path":   "public/docs",
+
+	"code_highlight": "github",
+
+	"theme":          "default",
+	"theme_settings": {}
+}
